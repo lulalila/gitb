@@ -9,6 +9,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  height: 40em;
 }
 
 /* Mis trabajos */
@@ -18,6 +19,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+#botones{
+  margin-top: 10em;
 }
 
 /* Contacto */
